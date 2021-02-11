@@ -1,0 +1,81 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "D:/GitHub/neurona/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/MinGW/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "D:/GitHub/neurona/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/GitHub/neurona/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_a04f8/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_a04f8.dir\build.make CMakeFiles/cmTC_a04f8.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/GitHub/neurona/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a04f8.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_a04f8.dir\testCCompiler.c.obj   -c D:\GitHub\neurona\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_a04f8.exe
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_a04f8.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_a04f8.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_a04f8.dir/objects.a @CMakeFiles\cmTC_a04f8.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_a04f8.dir/objects.a -Wl,--no-whole-archive  -o cmTC_a04f8.exe -Wl,--out-implib,libcmTC_a04f8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_a04f8.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/GitHub/neurona/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/GitHub/neurona/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_8d66a/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_8d66a.dir\build.make CMakeFiles/cmTC_8d66a.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/GitHub/neurona/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8d66a.dir/testCXXCompiler.cxx.obj
+C:\MinGW\bin\g++.exe     -o CMakeFiles\cmTC_8d66a.dir\testCXXCompiler.cxx.obj -c D:\GitHub\neurona\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+Linking CXX executable cmTC_8d66a.exe
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_8d66a.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_8d66a.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_8d66a.dir/objects.a @CMakeFiles\cmTC_8d66a.dir\objects1.rsp
+C:\MinGW\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_8d66a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_8d66a.exe -Wl,--out-implib,libcmTC_8d66a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_8d66a.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/GitHub/neurona/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
