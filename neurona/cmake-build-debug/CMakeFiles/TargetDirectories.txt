@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 D:/GitHub/neurona/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 D:/GitHub/neurona/cmake-build-debug/CMakeFiles/neurona.dir
 D:/GitHub/neurona/cmake-build-debug/CMakeFiles/edit_cache.dir
+=======
+D:/GitHub/neurona/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/GitHub/neurona/cmake-build-debug/CMakeFiles/neurona.dir
+D:/GitHub/neurona/cmake-build-debug/CMakeFiles/edit_cache.dir
+>>>>>>> 7f11f32fec43029344f015af184b8ee4afd6a198

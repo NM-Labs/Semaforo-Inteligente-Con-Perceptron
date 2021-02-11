@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 -IC:/PROGRA~1/MATLAB/R2020a/extern/include -ID:/GitHub/libserial-master/src/libserial -ID:/GitHub/libserial-master/src -ID:/GitHub/libserial-master 
+=======
+-IC:/PROGRA~1/MATLAB/R2020a/extern/include -ID:/GitHub/libserial-master/src/libserial -ID:/GitHub/libserial-master/src -ID:/GitHub/libserial-master 
+>>>>>>> 7f11f32fec43029344f015af184b8ee4afd6a198
